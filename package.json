@@ -5,6 +5,7 @@
   "engines": {
     "node": "14.x"
   },
+  "main": "server.cjs",
   "scripts": {
     "start":"node server.cjs"
   }
